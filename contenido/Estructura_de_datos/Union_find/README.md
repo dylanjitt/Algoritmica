@@ -7,3 +7,9 @@ Union find es una estructura de datos que puede mantener seguimiento de un conju
 
 ## código base
 - [Union Find c++](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/Estructura_de_datos/Union_find/UnionFind.cpp)
+
+## problemas
+- [Union Find contest](https://vjudge.net/contest/518038#problem/A)
+
+## referencias
+- [union find](https://aquarchitect.github.io/swift-algorithm-club/Union-Find/)
