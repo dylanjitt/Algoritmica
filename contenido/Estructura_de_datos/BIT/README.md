@@ -8,4 +8,5 @@ Un BIT, tambien conocido como un árbol de Fenwick, es una estructura de datos q
 
 ## problemas
 - [Movie collection](https://vjudge.net/contest/518038#problem/B)
-- [Turbo](https://vjudge.net/contest/518038#problem/C)
+- [Supecomputer](https://vjudge.net/contest/518038#problem/D)
+
