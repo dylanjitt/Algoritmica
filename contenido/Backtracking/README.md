@@ -1,5 +1,5 @@
 # Backtracking
-Backtracking puede ser definido como una tecnica algoritmica general que considera cada posibilidad y combinación para resolvewr un problema computacional. 
+Backtracking puede ser definido como una tecnica algorítmica general que considera cada posibilidad y combinación para resolver un problema computacional. 
 
 ![image](https://user-images.githubusercontent.com/101950765/194762401-c17b68d7-db46-4c90-bfa4-58a6ab3f7b60.png)
 
