@@ -5,3 +5,6 @@ Un BIT, tambien conocido como un árbol de Fenwick, es una estructura de datos q
 
 ## codigo base
 - [BIT c++](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/Estructura_de_datos/BIT/BIT.cpp)
+
+## problemas
+- [Movie collection](https://vjudge.net/contest/518038#problem/B)
