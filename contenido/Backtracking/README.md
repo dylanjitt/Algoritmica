@@ -4,10 +4,10 @@ Backtracking puede ser definido como una tecnica algoritmica general que conside
 ![image](https://user-images.githubusercontent.com/101950765/194762401-c17b68d7-db46-4c90-bfa4-58a6ab3f7b60.png)
 
 ## Codigo base
-### Sudoku
+#### Sudoku
 - [sudoku](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/Backtracking/sudoku.cpp)
 
-### Good Morning
+#### Good Morning
 - [good morning](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/Backtracking/good_morning.cpp)
 
 ## Problemas
