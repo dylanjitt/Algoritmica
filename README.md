@@ -13,3 +13,8 @@ Cada algoritmo cuenta con un archivo README.md el cual explica brevemente el fun
 
 ## Backtracking
 - [Backtracking](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/Backtracking)
+
+## Programación dinámica
+
+
+## Teoria de grafos
