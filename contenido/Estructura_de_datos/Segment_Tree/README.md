@@ -6,4 +6,7 @@ Un segment tree es una estructura de datos que guarda información sobre un inte
 - [Segment Tree c++](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/Estructura_de_datos/Segment_Tree/segmentTree.cpp)
 
 ## Problemas
-- [Turbo](https://vjudge.net/contest/518038#problem/C)
+- [Turbo](https://open.kattis.com/problems/turbo)
+
+## Referencias
+- [Segment Tree](https://cp-algorithms.com/data_structures/segment_tree.html)
