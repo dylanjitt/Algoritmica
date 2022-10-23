@@ -1,4 +1,3 @@
-// A memoization solution for Rod cutting problem
 #include <bits/stdc++.h>
 #include <iostream>
 #include <math.h>
