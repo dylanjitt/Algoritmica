@@ -10,9 +10,11 @@ En este caso el algoritmo que vamos a utilizar es Bottom-Up, porque en este caso
 
 ## Codigo
 - [Edit Distance](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/edit_distance/edit_distance.cpp)
-este codigo es una versión descriptiva de como funciona el algoritmo, con detalles de como compara cada caracter y como realiza una de las 3 acciones, aunque tiene una complejidad 3^m debido a su recursividad.
+
+Este codigo es una versión descriptiva de como funciona el algoritmo, con detalles de como compara cada caracter y como realiza una de las 3 acciones, aunque tiene una complejidad 3^m debido a su recursividad.
 - [Edit Distance Bottom-Up](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/edit_distance/edit_distanceBU.cpp)
-en este caso, utilizamos un codigo con una menor complejidad, pero con una implementación un poco mas confusa, pero que gana en el apartado del almacenamiento de datos para su posterior uso, su complejidad es O(m*n) porque toma en cuenta la longitud de las 2 palabaras a procesarse para definir cuantos movimientos o acciones se realiza para transforma la 1ra palabra en la 2da.
+
+En este caso, utilizamos un codigo con una menor complejidad, pero con una implementación un poco mas confusa, pero que gana en el apartado del almacenamiento de datos para su posterior uso, su complejidad es O(m*n) porque toma en cuenta la longitud de las 2 palabaras a procesarse para definir cuantos movimientos o acciones se realiza para transforma la 1ra palabra en la 2da.
 
 ## Referencias
 - [Edit-Distance](https://www.geeksforgeeks.org/edit-distance-dp-5/)
