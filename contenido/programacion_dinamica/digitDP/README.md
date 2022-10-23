@@ -7,4 +7,8 @@ en este caso, podemos convertir un numero en un string, y cada digito seria un c
 - [DigitDp.cpp](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/digitDP/digitdp.cpp)
 
 ## Problemas
--[Prefix Zeros](https://www.codechef.com/problems/PREZ)
+- [Prefix Zeros](https://www.codechef.com/problems/PREZ)
+
+## Referencias
+- [Digit DP | Data structures](https://www.scaler.com/topics/data-structures/digit-dp/)
+- [Digit DP | Introducction](https://www.geeksforgeeks.org/digit-dp-introduction/)
