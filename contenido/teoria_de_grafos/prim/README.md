@@ -13,7 +13,7 @@ Este es su funcionamiento:
 ![download](https://user-images.githubusercontent.com/101950765/197363058-cf08f1b8-527f-4729-8ff2-56ae229f0883.png)
 
 ## Codigo Base
--[prim.cpp](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/teoria_de_grafos/prim/prim.cpp)
+- [prim.cpp](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/teoria_de_grafos/prim/prim.cpp)
 
 ## Problemas
 - [sending email](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927)
