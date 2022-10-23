@@ -1,7 +1,14 @@
 # Prim
 
-El algoritmo Prim es un algoritmo Greedy que encuentra un arbol de minima expansion (Minimum Spanning Tree) por un grafo con peso. Esto significa que encuentra un conjunto de bordes que forman un arbol que incluye cada vertice, donde el peso total de todas las esquinas es minimo.
-En otras palabras, este algoritmo es como el dijkstra, que tiene un sistema con todos los nodos disponibles, la gran diferencia es que Dijkstra no necesita utilizar todos los nodos para encontrar un camino corto de un punto A a otro B. En cambio Prim si o si tiene que conectar todos los nodos para encontrar rutas que conecten todo el sistema, pero con el menor peso posible en general.
+El algoritmo Prim es un algoritmo Greedy que pertenece a la teoria de grafos para encontrar un arbol de expansion minimo (minimum spanning tree, MST) en un grafo conexo no dirigido y podnderados, en otras palabras, es capaz de encontrar un subconjunto de las aristas que formen un arbol que incluya todos los vertices del grafo inicial, donde el peso total de las aristas del arbol es el minimo posible.
+
+Si el grafo no es conexo, entonces el algoritmo encontrará el MST para uno de los componentes conexos que forman dicho grafo no conexo.
+
+Este es su funcionamiento:
+1. se marca un vertice cualquiera. Será el vertice de partida.
+2. se selecciona la arista de menor peso incidente en el vertice seleccionado anteriormente y se selecciona el otro vertice en el que incide dicha arista.
+3. Repetir el paso 2 siempre que la arista elegida enlace un vertice seleccionado y otro que no lo esté. Es decir, siempre que la arista elegida no cree ningun ciclo.
+4. El MST sera encontrado cuando hayan sido seleccionados todos los vertices del grafo.
 
 ![download](https://user-images.githubusercontent.com/101950765/197363058-cf08f1b8-527f-4729-8ff2-56ae229f0883.png)
 
