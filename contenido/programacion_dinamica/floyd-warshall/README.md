@@ -8,7 +8,9 @@ Para resolver el algoritmo tenemos que:
 - Luego actualizamos la matriz solución considerando todos los vértices como intermediarios.
 - Cada vez tenemos que escoger uno por uno todos los vértices y actualizar el camino mas corto, incluidos los intermediarios.
 - Para cada par desde el origen hasta el destino, hay 2 posibles casos:
-  1. K no es un vertice intermediario en el camino mas corto de i a j. mantenemos el valor de [i][j] tal como está
+
+  1. K no es un vertice intermediario en el camino mas corto de i a j. mantenemos el valor de [i][j] tal como está.
+  
   2. K es un vertice intermediario, y actualizamos el valor de dist[i][j] a dist[i][k]+dist[k][j] si la primera es mayor a esta última suma.
 
 ![floyd](https://user-images.githubusercontent.com/101950765/197418371-8d1c6799-b135-4a70-88e1-4f6c1867faa2.jpg)
@@ -16,7 +18,7 @@ Para resolver el algoritmo tenemos que:
 ## Codigo
 - [Floyd-Warshall](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/floyd-warshall/floyd_warshall.cpp)
 
-En este caso el sistema tiene una complejidad O(n)= n^3, porque para recorrer el sistema entre el vertice inicio, vertice final, y el vertice mas corto (k), utiliza 3 for para compararlos entre si y/o actualizar el mas corto nuevo.
+En este caso el sistema tiene una complejidad O(n)= n^3, porque para recorrer el sistema entre el vertice inicio, vertice final, y el vertice mas corto (k), utiliza 3 for para compararlos entre si y/o actualizar el mas corto nuevo. Además de ser un algoritmo top down, ya que entre varias selecciones de caminos cortos, solo una llega a ser la respuesta.
 - [Floyd-warshall sin comentarios descriptivos](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/floyd-warshall/fwc.cpp)
 
 ## Referencias
