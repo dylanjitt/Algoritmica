@@ -1,4 +1,4 @@
-## Rod Cutting
+# Rod Cutting
 Dada una varilla de longitud n y una lista de precios de varillas de longitud i, encuentre la forma optima de cortar la varilla en varillas mas pequeñas para maximizar las ganancias.
 
 Para resolver este problema, primero nos dan un array precio [ ], donde la varilla de longitud i tiene un valor precio[i-1]. La idea es simple: uno por uno, divide la barra dada de longitud n en 2 partes: “i” y “n-i”. 
