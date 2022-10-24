@@ -15,6 +15,12 @@ Cada algoritmo cuenta con un archivo README.md el cual explica brevemente el fun
 - [Backtracking](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/Backtracking)
 
 ## Programación dinámica
+- [Digit DP](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/programacion_dinamica/digitDP)
+- [Subset Sum](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/programacion_dinamica/subset_sum)
+- [LIS](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/programacion_dinamica/Longest_Increasing_secuence)
+- [Floyd-Warshall](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/programacion_dinamica/floyd-warshall)
+- [Rod Cutting](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/rod_cutting/README.md)
+- [Edit Distance](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/programacion_dinamica/edit_distance)
 
 
 ## Teoria de grafos
