@@ -26,3 +26,6 @@ Cada algoritmo cuenta con un archivo README.md el cual explica brevemente el fun
 ## Teoria de grafos
 - [kruskal](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/teoria_de_grafos/kruskal)
 - [prim](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/teoria_de_grafos/prim)
+
+## Geometria computacional
+- [Convex Hull](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/geometria_computacional/convex_hull)
