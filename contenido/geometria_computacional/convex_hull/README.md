@@ -9,10 +9,13 @@ la idea seria usar orientación, el siguiente punto seleccionado como el punto q
 
 Pasos para el algoritmo:
 1. inicializar "p" como el punto mas hacia la izquierda de todos.
-2. repetir estos pasos hasta no llegar de vuelta a "p"
-  2.1. el siguiente punto es "q", tal que el trio (p, q, r) sea contra-reloj para cualquier punto "r". para hallarlo, inicializamos q como nuestro siguiente punto, luego exploramos todos los puntos disponibles. para cada punto, si "i" es el punto mas "contra-reloj" entre todos, entonces actualizamos q como i- y nuestro valor final será el mas contra-reloj de todos.
-  2.2. next[p]=q (guardamos q como el siguiente punto a p en el output del convex hull).
-  2.3 p = q (asignamos p como q para nuestra siguiente iteración).
+2. repetir estos pasos hasta no llegar de vuelta a "p":
+
+  a. el siguiente punto es "q", tal que el trio (p, q, r) sea contra-reloj para cualquier punto "r". para hallarlo, inicializamos q como nuestro siguiente punto, luego exploramos todos los puntos disponibles. para cada punto, si "i" es el punto mas "contra-reloj" entre todos, entonces actualizamos q como i- y nuestro valor final será el mas contra-reloj de todos.
+  
+  b. next[p]=q (guardamos q como el siguiente punto a p en el output del convex hull).
+  
+  c. p = q (asignamos p como q para nuestra siguiente iteración).
   
   ![3-s2 0-B9781785482434500050-f05-07-9781785482434](https://user-images.githubusercontent.com/101950765/199849806-14d76332-3e8e-4991-8569-2803b13277f7.jpg)
 
