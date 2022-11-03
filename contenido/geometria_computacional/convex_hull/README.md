@@ -18,7 +18,8 @@ Pasos para el algoritmo:
 
 ## Código
 - [Convex hull.cpp](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/geometria_computacional/convex_hull/convexHull.cpp)
-su complejidad es de O(m*n) donde n es el numero de puntos y m es el numero de puntos output o "hull points" (m<=n).
+
+Su complejidad es de O(m*n) donde n es el numero de puntos y m es el numero de puntos output o "hull points" (m<=n).
 ## Referencias
 - [Convex-Hull](https://en.wikipedia.org/wiki/Convex_hull)
 - [Convex Hull, Jarvis's Algorithm or wrapping](https://www.geeksforgeeks.org/convex-hull-set-1-jarviss-algorithm-or-wrapping/)
