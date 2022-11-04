@@ -30,7 +30,7 @@ El algoritmo de Edmonds-karp es una implementacion del metodo de Ford-Fulkerson 
 - [Ford Fulkerson](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/teoria_de_grafos/flujo_maximo/fordFulkerson.cpp)
 - [Edmonds Karp](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/teoria_de_grafos/flujo_maximo/edmondsKarp.cpp)
 
-Ambos algoritmos tienen una complejidad de O(V*E^3), donde cada camino aumentante puede ser encontrado con O(E), cada vez que al menos uno de los lados E se satura, la distancia desde el lado saturado hasta el origen debera ser mas largo que la ultima vez que estuvo saturado, y ese largo es a lo sumo V.
+Ambos algoritmos tienen una complejidad de O(V*E^2), donde cada camino aumentante puede ser encontrado con O(E), cada vez que al menos uno de los lados E se satura, la distancia desde el lado saturado hasta el origen debera ser mas largo que la ultima vez que estuvo saturado, y ese largo es a lo sumo V.
 
 ## Referencias
 - [Red de Flujo](https://es.wikipedia.org/wiki/Red_de_flujo)
