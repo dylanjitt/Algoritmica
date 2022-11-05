@@ -22,6 +22,8 @@ Cada algoritmo cuenta con un archivo README.md el cual explica brevemente el fun
 - [Rod Cutting](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/rod_cutting/README.md)
 - [Edit Distance](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/programacion_dinamica/edit_distance)
 
+## Busqueda Binaria
+- [binary search}(https://github.com/dylanjitt/Algoritmica/blob/main/contenido/busqueda_binaria/README.md)
 
 ## Teoria de grafos
 - [kruskal](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/teoria_de_grafos/kruskal)
