@@ -17,6 +17,10 @@ Para seguir los pasos, basicamente ignoramos la mitad de los elementos justament
 
 Su complejidad es de O(log n), ya que n seria la longitud del array, realizamos varias iteraciones n/2, acumulandose n/2^k, en el que podriamos pasar al otro lado n = 2^k, aplicamos logaritmo en base 2 a ambos lados, y k (nuestro numero total de complejidad para cada caso) se deduciria como log2(n).
 
+## Ejercicios
+- [The Monkey and the Oiled Bamboo](https://vjudge.net/problem/UVA-12032)
+  - [solución](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/busqueda_binaria/monkeyOiledBamboo.cpp)
+
 ## Referencias 
 - [Busqueda Binaria](https://es.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
 - [Binary search](https://www.geeksforgeeks.org/binary-search/)
