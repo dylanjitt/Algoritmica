@@ -17,6 +17,8 @@ Este es su funcionamiento:
 
 ## Problemas
 - [sending email](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1927)
+  - [solucion](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/teoria_de_grafos/prim/sendingEmail.cpp)
+  
 
 ## Referencias
 - [Prim's algorithm](https://en.wikipedia.org/wiki/Prim%27s_algorithm)
