@@ -12,6 +12,7 @@ Este algorimto puede servir para unir un monton de conjuntos desconectados, unie
 
 ## problemas
 - [Union Find contest](https://open.kattis.com/problems/unionfind)
+  - [Solucion](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/Estructura_de_datos/Union_find/unionfindexercise.cpp)
 
 ## referencias
 - [union find](https://aquarchitect.github.io/swift-algorithm-club/Union-Find/)
