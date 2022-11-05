@@ -11,6 +11,8 @@ Un ejemplo mas concreto seria de contar cuantos numeros que terminan en 3 o 4 ha
 - [DigitDp.cpp](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/digitDP/digitdp.cpp)
 
 ## Problemas
+- Averiguar si un numero contiene en si un 0 o 5
+  - [soulcion](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/programacion_dinamica/digitDP/digitdp0-5.cpp)
 - [Prefix Zeros](https://www.codechef.com/problems/PREZ)
 
 ## Referencias
