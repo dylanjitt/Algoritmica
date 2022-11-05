@@ -13,3 +13,11 @@ Para seguir los pasos, basicamente ignoramos la mitad de los elementos justament
 ![1_GvdVNpUC_d6n80ZJNqrG1A](https://user-images.githubusercontent.com/101950765/200099201-f6004c22-5713-4fae-a7f4-22d22dbbf227.png)
 
 ## Codigo base
+- [binary search](https://github.com/dylanjitt/Algoritmica/blob/891b032b88c3ef03ec459fa61aaba87e09067457/contenido/busqueda_binaria/binarysearch.cpp)
+
+Su complejidad es de O(log n), ya que n seria la longitud del array, realizamos varias iteraciones n/2, acumulandose n/2^k, en el que podriamos pasar al otro lado n = 2^k, aplicamos logaritmo en base 2 a ambos lados, y k (nuestro numero total de complejidad para cada caso) se deduciria como log2(n).
+
+## Referencias 
+- [Busqueda Binaria](https://es.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search)
+- [Binary search](https://www.geeksforgeeks.org/binary-search/)
+- [complexity fanalysis of binary search](https://www.geeksforgeeks.org/complexity-analysis-of-binary-search/)
