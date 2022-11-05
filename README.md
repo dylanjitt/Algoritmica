@@ -23,7 +23,7 @@ Cada algoritmo cuenta con un archivo README.md el cual explica brevemente el fun
 - [Edit Distance](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/programacion_dinamica/edit_distance)
 
 ## Busqueda Binaria
-- [binary search}(https://github.com/dylanjitt/Algoritmica/blob/main/contenido/busqueda_binaria/README.md)
+- [binary search](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/busqueda_binaria/README.md)
 
 ## Teoria de grafos
 - [kruskal](https://github.com/dylanjitt/Algoritmica/tree/main/contenido/teoria_de_grafos/kruskal)
