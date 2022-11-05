@@ -13,7 +13,7 @@ esta es una tecnica para resolver problemas de manera recursiva, tratando de con
 
 ## Problemas
 - [Good Morning](https://vjudge.net/contest/518038#problem/E)
-  - [solucion: codigo Good Morning]
+  - solucion: **código Good Morning**
 
 ## Referencias
 - [backtracking](https://www.geeksforgeeks.org/introduction-to-backtracking-data-structure-and-algorithm-tutorials/#:~:text=Backtracking%20can%20be%20defined%20as,search%20for%20a%20feasible%20solution.)
