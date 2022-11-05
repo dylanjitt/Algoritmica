@@ -17,6 +17,7 @@ Para implementar Kruskal tenemos que seguir los siguientes pasos:
 
 ## Problemas
 - [Freckles](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=975)
+  - [solución](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/teoria_de_grafos/kruskal/freckles.cpp)
 - [Re-connecting computer sites](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=849)
 
 ## Referencias
