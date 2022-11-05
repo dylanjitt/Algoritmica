@@ -13,6 +13,7 @@ Este algoritmo puede ser considerado como un problema de optimización: encontra
 
 ## Problemas
 - [Warlus Weights](https://open.kattis.com/problems/walrusweights)
+  - [explicación/tutorial solución] (https://www.youtube.com/watch?v=63f33LGNsrs)
 
 ## Referencias
 - [Subset Sum Problem](https://en.wikipedia.org/wiki/Subset_sum_problem)
