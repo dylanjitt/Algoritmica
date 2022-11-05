@@ -22,6 +22,10 @@ Pasos para el algoritmo:
 ## Código
 - [Convex hull.cpp](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/geometria_computacional/convex_hull/convexHull.cpp)
 
+## Ejercicios
+- [Polygon] (https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=575)
+    - [solución](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/geometria_computacional/convex_hull/polygon.cpp)
+
 Su complejidad es de O(m*n) donde n es el numero de puntos y m es el numero de puntos output o "hull points" (m<=n).
 ## Referencias
 - [Convex-Hull](https://en.wikipedia.org/wiki/Convex_hull)
