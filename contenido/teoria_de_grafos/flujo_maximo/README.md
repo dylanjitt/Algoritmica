@@ -38,6 +38,9 @@ Ambos algoritmos tienen una complejidad de O(V*E^2), donde cada camino aumentant
 - [Algoritmo de Edmonds karp](https://es.wikipedia.org/wiki/Algoritmo_de_Edmonds-Karp)
 - [Ford-fulkerson algorithm for maximum flow problem](https://www.geeksforgeeks.org/ford-fulkerson-algorithm-for-maximum-flow-problem/)
 
+## Ejercicios
+- [Internet Bandwidth](https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=761)
+  - [solucion](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/teoria_de_grafos/flujo_maximo/internetBandwidth.cpp)
 ## Videos/tutoriales
 - [Ford Fulkerson Algorithm Edmonds Karp Algorithm For Max Flow](https://www.youtube.com/watch?v=GiN3jRdgxU4)
 
