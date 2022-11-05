@@ -11,6 +11,7 @@ La estructura Trie puede servir para almacenar y buscar una combinación especí
 
 ## Problemas
 - [words Matching Dictionary](https://www.techiedelight.com/find-all-words-matching-pattern-dictionary/)
+    - [solución](https://github.com/dylanjitt/Algoritmica/blob/main/contenido/Estructura_de_datos/trie/wordsMatchingDictionary.cpp)
 
 ## Referencias
 - [Trie | (insert and search)](https://www.geeksforgeeks.org/trie-insert-and-search/)
